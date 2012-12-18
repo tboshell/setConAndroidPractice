@@ -14,3 +14,7 @@ http://www.coreservlets.com/android-tutorial/
 
 Maven:
 Don't think we will need this.....but still: http://stand.spree.de/wiki_details_maven_archetypes
+
+
+from KW:
+http://www.dpunkt.de/buecher/3436.html
