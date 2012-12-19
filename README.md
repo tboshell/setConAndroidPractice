@@ -18,3 +18,11 @@ Don't think we will need this.....but still: http://stand.spree.de/wiki_details_
 
 from KW:
 http://www.dpunkt.de/buecher/3436.html
+
+
+GIT info:
+http://www-cs-students.stanford.edu/~blynn/gitmagic/
+http://alx.github.com/gitbook/
+http://git-scm.com/book
+http://www.kernel.org/pub/software/scm/git/docs/
+http://learn.github.com/p/normal.html  and then continue with the next links
