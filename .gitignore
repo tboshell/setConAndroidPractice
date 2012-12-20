@@ -6,3 +6,4 @@ tmp/
 /server/bin/
 .springBeans
 server/bin/
+.metadata/
