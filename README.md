@@ -28,12 +28,13 @@ http://www.kernel.org/pub/software/scm/git/docs/
 http://learn.github.com/p/normal.html  and then continue with the next links
 
 First things: 
-1. check out the latest:  git checkout
-2. create your own branch:  git checkout -b 'yourNewName'   ie git checkout -b myBranch
-3. Do some work (make a project in eclipse, import, share, link, whatever your preferred way is)
-4. then selectively add: git add filename/path   OR with caution git add -A
-5. Local commit to your git database: git commit   
-5a. a commit message
-6. do another pull: git pull
-6a. handle any merge conflits: git mergetool    (may have to configure the merge tool like meld)
-7. send to the server: git push
+<ol>
+<li>check out the latest:  git checkout</li>
+<li>create your own branch:  git checkout -b 'yourNewName'   ie git checkout -b myBranch</li>
+<li>Do some work (make a project in eclipse, import, share, link, whatever your preferred way is)</li>
+<li> then selectively add: git add filename/path   OR with caution git add -A<li>
+<li> Local commit to your git database: git commit   </li>
+<ol><li>5a. a commit message</li></ol>
+<li> do another pull: git pull</li>
+<ol><li> handle any merge conflits: git mergetool    (may have to configure the merge tool like meld)</li></ol>
+<li>send to the server: git push</li>
