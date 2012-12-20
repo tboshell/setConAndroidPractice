@@ -32,9 +32,9 @@ First things:
 <li>check out the latest:  git checkout</li>
 <li>create your own branch:  git checkout -b 'yourNewName'   ie git checkout -b myBranch</li>
 <li>Do some work (make a project in eclipse, import, share, link, whatever your preferred way is)</li>
-<li> then selectively add: git add filename/path   OR with caution git add -A<li>
+<li> then selectively add: git add filename/path   OR with caution git add -A</li>
 <li> Local commit to your git database: git commit   </li>
-<ol><li>5a. a commit message</li></ol>
+<ol><li>a commit message</li></ol>
 <li> do another pull: git pull</li>
 <ol><li> handle any merge conflits: git mergetool    (may have to configure the merge tool like meld)</li></ol>
 <li>send to the server: git push</li>
